@@ -12,7 +12,7 @@ Real Time Analytics, Chatting, Social Media, Live leaderboards, Geopositioning
 
 ## Commands 
 
-*lsof -i tcp:6379
+* lsof -i tcp:6379
 * kill -9 <pid>
 * brew services stop redis
 * docker run -d -p 6379:6379 --name myredis redis
