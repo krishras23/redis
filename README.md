@@ -46,7 +46,7 @@ Real Time Analytics, Chatting, Social Media, Live leaderboards, Geopositioning
 * SADD key member [member ...]: Add one or more members to a set
 * SMEMBERS key: Get all the members of a set
 * SISMEMBER key member: Check if a member exists in a set
-* SREM key member [member ...]: Remove one or more members from a set
+* SREM key member [member ...]: Remove one or more members from a set 
 * SCARD key: Get the number of members in a set
 
 ### Sorted Sets
